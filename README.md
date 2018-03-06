@@ -1,4 +1,4 @@
 # react
 server side rendering
 
-Tournament Organizing App
+Dash App Web Version
